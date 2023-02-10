@@ -6,3 +6,4 @@ execute
 multiple permisiions
 everybody
 james bond
+john doe
